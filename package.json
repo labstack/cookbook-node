@@ -1,0 +1,13 @@
+{
+  "name": "cookbook-node",
+  "version": "1.0.0",
+  "description": "Node.js cookbook",
+  "main": "index.js",
+  "repository": "https://github.com/labstack/cookbook-node.git",
+  "author": "Vishal Rana <vr@labstack.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.4",
+    "labstack": "^0.5.2"
+  }
+}
