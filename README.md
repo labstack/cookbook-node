@@ -1,5 +1,5 @@
 # Node.js Cookbook
 
-- [Node.js Crash Reporting Recipe](https://labstack.com/cookbook/node-crash-reporting)
+- [Node.js Error Reporting Recipe](https://labstack.com/cookbook/node-error-reporting)
 
 

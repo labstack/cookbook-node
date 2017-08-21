@@ -10,7 +10,7 @@ const client = new Client('<API_KEY>')
 const log = client.log()
 log.fields = {
   app_id: 1,
-  app_name: 'crash-reporting'
+  app_name: 'error-reporting'
 }
 log.dispatchInterval = 5
 
