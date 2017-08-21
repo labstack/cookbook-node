@@ -1,6 +1,6 @@
-const EventEmitter = require('events')
 const express = require('express')
 const {Client, Level} = require('labstack')
+const EventEmitter = require('events')
 
 const app = express()
 const ee = new EventEmitter();
